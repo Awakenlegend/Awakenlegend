@@ -1,4 +1,6 @@
-<h4 align="left">Hey, I am MF<br>🔭 I’m currently working on Jarvis(like project)<br>🤝 I’m looking for help with ML projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about DSA ,Python ,Fronted development</h4>
+<h4 align="left">Hey, I am MF  <img src="![image](https://github.com/user-attachments/assets/b586493c-3d91-4d5b-880a-59091c57213a)"/>
+
+  <br> 🔭 I’m currently working on Jarvis(like project)<br>🤝 I’m looking for help with ML projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about DSA ,Python ,Fronted development</h4>
 
 ###
 
