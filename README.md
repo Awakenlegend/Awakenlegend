@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=E57373&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MF;AI+%2F+ML+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
 
+![Hi, I'm MF](https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/your-image.png)
+
 ![visitors](https://komarev.com/ghpvc/?username=Awakenlegend&color=blue&style=flat-square)
 
 # Hey there! 👋 I'm MF
@@ -28,14 +30,20 @@
 ## GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Awakenlegend&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Awakenlegend&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awakenlegend&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakenlegend&layout=compact&theme=radical)
 
-## Contribution Graph
-![GitHub Contribution Graph](https://github.com/Awakenlegend/Awakenlegend/blob/output/github-contribution-grid-snake.svg)
+---
+
+✨ **Quote:** "Talk is cheap. Show me the code" – MF
+
+---
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-farhan1)
