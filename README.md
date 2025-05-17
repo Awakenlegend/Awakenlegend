@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=E57373&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MF;AI+%2F+ML+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
 
-![Hi, I'm MF](https://raw.githubusercontent.com/Awakenlegend/github-Awakenlegend/main/assets/mf-banner.png)
-
 ![visitors](https://komarev.com/ghpvc/?username=Awakenlegend&color=blue&style=flat-square)
 
 # Hey there! 👋 I'm MF
@@ -37,7 +35,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakenlegend&layout=compact&theme=radical)
 
 ## Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Awakenlegend&theme=radical)
+![GitHub Contribution Graph](https://github.com/Awakenlegend/Awakenlegend/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-farhan1)
