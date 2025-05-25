@@ -37,7 +37,7 @@
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakenlegend&layout=compact&theme=radical)
 
----
+
 
 ✨ **Quote:** "Talk is cheap. Show me the code" – MF
 
