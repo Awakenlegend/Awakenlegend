@@ -1,3 +1,17 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=E57373&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+MF;Full+Stack+Developer+%26+AI%2FML+Enthusiast;Generative+AI+Learner;Open+Source+Lover)](https://git.io/typing-svg)
+
+![visitors](https://komarev.com/ghpvc/?username=Awakenlegend&color=blue&style=flat-square)
+
+# Hey there! 👋 I'm MF
+
+## About Me
+🔭 Building **end-to-end AI-powered apps (Jarvis-like project)**  
+🤝 Open to collaborate on **AI/ML + Full Stack projects**  
+🌱 Exploring **Deep Learning, Generative AI, and Scalable Web Apps**  
+💬 Ask me about **DSA, Python, AI/ML, and Full Stack Development**  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Full Stack Development
@@ -33,3 +47,29 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Awakenlegend&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Awakenlegend&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awakenlegend&show_icons=true&theme=radical)
+
+## 💡 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakenlegend&layout=compact&theme=radical)
+
+---
+
+✨ **Quote:** "Talk is cheap. Show me the code" – MF  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-farhan1)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammed_farh_an)
+
+⭐️ From [Awakenlegend](https://github.com/Awakenlegend)
